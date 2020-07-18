@@ -1,0 +1,13 @@
+D:\C-Netwok\TCPIPAppBasic\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.exe
+D:\C-Netwok\TCPIPAppBasic\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.deps.json
+D:\C-Netwok\TCPIPAppBasic\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.runtimeconfig.json
+D:\C-Netwok\TCPIPAppBasic\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.runtimeconfig.dev.json
+D:\C-Netwok\TCPIPAppBasic\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.dll
+D:\C-Netwok\TCPIPAppBasic\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.pdb
+D:\C-Netwok\TCPIPAppBasic\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.csprojAssemblyReference.cache
+D:\C-Netwok\TCPIPAppBasic\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.AssemblyInfoInputs.cache
+D:\C-Netwok\TCPIPAppBasic\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.AssemblyInfo.cs
+D:\C-Netwok\TCPIPAppBasic\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.csproj.CoreCompileInputs.cache
+D:\C-Netwok\TCPIPAppBasic\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.dll
+D:\C-Netwok\TCPIPAppBasic\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.pdb
+D:\C-Netwok\TCPIPAppBasic\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C-Netwok\TCPIPAppBasic\TCPIPAppBasic\bin\Debug\netcoreapp3.1\TCPIPAppBasic.exe
+D:\C-Netwok\TCPIPAppBasic\TCPIPAppBasic\bin\Debug\netcoreapp3.1\TCPIPAppBasic.deps.json
+D:\C-Netwok\TCPIPAppBasic\TCPIPAppBasic\bin\Debug\netcoreapp3.1\TCPIPAppBasic.runtimeconfig.json
+D:\C-Netwok\TCPIPAppBasic\TCPIPAppBasic\bin\Debug\netcoreapp3.1\TCPIPAppBasic.runtimeconfig.dev.json
+D:\C-Netwok\TCPIPAppBasic\TCPIPAppBasic\bin\Debug\netcoreapp3.1\TCPIPAppBasic.dll
+D:\C-Netwok\TCPIPAppBasic\TCPIPAppBasic\bin\Debug\netcoreapp3.1\TCPIPAppBasic.pdb
+D:\C-Netwok\TCPIPAppBasic\TCPIPAppBasic\obj\Debug\netcoreapp3.1\TCPIPAppBasic.csprojAssemblyReference.cache
+D:\C-Netwok\TCPIPAppBasic\TCPIPAppBasic\obj\Debug\netcoreapp3.1\TCPIPAppBasic.AssemblyInfoInputs.cache
+D:\C-Netwok\TCPIPAppBasic\TCPIPAppBasic\obj\Debug\netcoreapp3.1\TCPIPAppBasic.AssemblyInfo.cs
+D:\C-Netwok\TCPIPAppBasic\TCPIPAppBasic\obj\Debug\netcoreapp3.1\TCPIPAppBasic.csproj.CoreCompileInputs.cache
+D:\C-Netwok\TCPIPAppBasic\TCPIPAppBasic\obj\Debug\netcoreapp3.1\TCPIPAppBasic.dll
+D:\C-Netwok\TCPIPAppBasic\TCPIPAppBasic\obj\Debug\netcoreapp3.1\TCPIPAppBasic.pdb
+D:\C-Netwok\TCPIPAppBasic\TCPIPAppBasic\obj\Debug\netcoreapp3.1\TCPIPAppBasic.genruntimeconfig.cache

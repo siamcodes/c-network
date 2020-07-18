@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerApp", "TCPIPAppBasic\ServerApp.csproj", "{66085436-A533-43E6-9FAB-92C2D007F714}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientApp", "ClientApp\ClientApp.csproj", "{CE6F47CC-6A39-4B60-B0C9-630300114A79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66085436-A533-43E6-9FAB-92C2D007F714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66085436-A533-43E6-9FAB-92C2D007F714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66085436-A533-43E6-9FAB-92C2D007F714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66085436-A533-43E6-9FAB-92C2D007F714}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE6F47CC-6A39-4B60-B0C9-630300114A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE6F47CC-6A39-4B60-B0C9-630300114A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE6F47CC-6A39-4B60-B0C9-630300114A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE6F47CC-6A39-4B60-B0C9-630300114A79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3041B42C-B5F4-47EF-A45F-E770F4914D1F}
+	EndGlobalSection
+EndGlobal
